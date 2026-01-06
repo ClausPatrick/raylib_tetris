@@ -6,6 +6,45 @@ This project sticks closely to standard Tetris rules while adding a clean UI, ke
 
 ---
 
+## Media
+
+<p align="center">
+  <img src="assets/demo/screen_2.png" width="600">
+</p>
+
+<p align="center">
+  <img src="assets/demo/screen_2_1.png" width="600">
+</p>
+
+<p align="center">
+  <img src="assets/demo/screen_3_2.png" width="600">
+</p>
+
+<p align="center">
+  <img src="assets/demo/screen_0_2.png" width="600">
+</p>
+
+<p align="center">
+  <img src="assets/demo/screen_0_1.png" width="600">
+</p>
+
+<p align="center">
+  <img src="assets/demo/screen_4.png" width="600">
+</p>
+
+<p align="center">
+  <img src="assets/demo/screen_5.png" width="600">
+</p>
+
+<p align="center">
+  <img src="assets/demo/screen_6.png" width="600">
+</p>
+
+<p align="center">
+  <img src="assets/demo/screen_7.png" width="600">
+</p>
+
+
 ## Features
 
 - Classic Tetris gameplay
