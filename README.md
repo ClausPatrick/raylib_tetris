@@ -230,7 +230,7 @@ g++ -std=c++17 main.cpp -lraylib -o tetris
 ./tetris
 ```
 
-(Exact build steps may vary depending on platform and setup.)
+Exact build steps may vary depending on platform and setup. As it stands it will look for the sound files in a *sounds* directory. All the effects have been provided here and are composed by myself but the themes (*tetris_a.mp3*, *tetris_b.mp3* and *tetris_c.mp3*) will have to be sourced from elsewhere for copyright reasons. 
 
 ## Future Improvements
 
